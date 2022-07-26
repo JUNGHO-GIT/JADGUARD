@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/JUNGHO-GIT/LAB/main/JUNGHO%20-%20(Filter).txt
 
 2. Easylist - (KR)
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
+https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
 
 3. Adguard - (Base)
 https://filters.adtidy.org/extension/chromium/filters/2_optimized.txt
