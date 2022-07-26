@@ -1,5 +1,5 @@
 1. JUNGHO - Filter
-https://raw.githubusercontent.com/JUNGHO-GIT/LAB/1.-Setting/JUNGHO%20-%20(Filter)
+https://raw.githubusercontent.com/JUNGHO-GIT/LAB/main/0.%20Adguard%20-%20List.txt
 
 2. Easylist - (KR)
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
