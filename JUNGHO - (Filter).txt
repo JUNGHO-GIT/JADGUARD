@@ -28,6 +28,5 @@
 
 ! Black List (KR)
 ||*daum.*^$important
-||*daumcdn*^$important
 ||*mercury.coupang.com^$important
 ||*notification-front-web.coupang.com^$important
