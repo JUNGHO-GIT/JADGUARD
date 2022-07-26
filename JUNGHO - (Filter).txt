@@ -6,27 +6,27 @@
 @@||us-auth2.samsungosp.com^$important
 
 ! Black List (GO)
-||adservice.google*^$important
-||safebrowsing*^$important
-||firebase*^$important
-||crashlytic*^$important
-||tagmanager*^$important
-||cdn.ampproject*^$important
-||mtalk*^$important
-||analytics*^$important
+||*adservice.google*^$important
+||*safebrowsing*^$important
+||*firebase*^$important
+||*crashlytic*^$important
+||*tagmanager*^$important
+||*cdn.ampproject*^$important
+||*mtalk*^$important
+||*analytics*^$important
 
 ! Black List (EN)
-||frog.wix*^$important
-||inspector-collector*^$important
-||xbox*^$important
-||spotify*^$important
-||facebook*^$important
-||bing*^$important
-||static.invertase.io^$important
-||static.xx.fbcdn.net^$important
+||*frog.wix*^$important
+||*inspector-collector*^$important
+||*xbox*^$important
+||*spotify*^$important
+||*facebook*^$important
+||*bing*^$important
+||*static.invertase.io^$important
+||*static.xx.fbcdn.net^$important
 
 ! Black List (KR)
-||daum.*^$important
-||daumcdn*^$important
-||mercury.coupang.com^$important
-||notification-front-web.coupang.com^$important
+||*daum.*^$important
+||*daumcdn*^$important
+||*mercury.coupang.com^$important
+||*notification-front-web.coupang.com^$important
