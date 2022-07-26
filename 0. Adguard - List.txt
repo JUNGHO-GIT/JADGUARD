@@ -17,14 +17,11 @@ https://filters.adtidy.org/extension/chromium/filters/14_optimized.txt
 6. Adguard - (Social)
 https://filters.adtidy.org/extension/chromium/filters/4_optimized.txt
 
-7. Adguard - (Tracking)
-https://filters.adtidy.org/extension/chromium/filters/3_optimized.txt
-
-8. Adguard - (DNS)
+7. Adguard - (DNS)
 https://filters.adtidy.org/extension/chromium/filters/15_optimized.txt
 
-9. Adguard - (Extra)
+8. Adguard - (Extra)
 https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.meta.js
 
-0. Adguard - (AMP)
+9. Adguard - (AMP)
 https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.meta.js
