@@ -13,7 +13,7 @@
 ||*tagmanager*^$important
 ||*cdn.ampproject*^$important
 ||*mtalk*^$important
-||*analytics*^$important
+||*analytic*^$important
 
 ! Black List (EN)
 ||*frog.wix*^$important
@@ -24,6 +24,7 @@
 ||*bing*^$important
 ||*static.invertase.io^$important
 ||*static.xx.fbcdn.net^$important
+||*smetrics*^$important
 
 ! Black List (KR)
 ||*daum.*^$important
