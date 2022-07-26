@@ -1,0 +1,29 @@
+1. JUNGHO - Filter
+https://raw.githubusercontent.com/JUNGHO-GIT/LAB/main/JUNGHO%20-%20(Filter)
+
+2. Easylist - (KR)
+https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
+
+3. Adguard - (Base)
+https://filters.adtidy.org/extension/chromium/filters/2_optimized.txt
+
+4. Adguard - (Mobile)
+https://filters.adtidy.org/extension/chromium/filters/11_optimized.txt
+
+5. Adguard - (Anoyance)
+https://filters.adtidy.org/extension/chromium/filters/14_optimized.txt
+
+6. Adguard - (Social)
+https://filters.adtidy.org/extension/chromium/filters/4_optimized.txt
+
+7. Adguard - (Tracking)
+https://filters.adtidy.org/extension/chromium/filters/3_optimized.txt
+
+8. Adguard - (DNS)
+https://filters.adtidy.org/extension/chromium/filters/15_optimized.txt
+
+9. Adguard - (Extra)
+https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.meta.js
+
+0. Adguard - (AMP)
+https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.meta.js
