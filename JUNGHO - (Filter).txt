@@ -27,6 +27,7 @@
 ||*static.invertase.io^$important
 ||*static.xx.fbcdn.net^$important
 ||*smetrics*^$important
+||*tencent*^$important
 
 ! Black List (KR)
 ||*daum.*^$important
