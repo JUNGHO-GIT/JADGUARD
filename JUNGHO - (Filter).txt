@@ -17,6 +17,7 @@
 ||*content-autofill.googleapi*^$important
 
 ! Black List (EN)
+||*amazonaws.com*^
 ||*frog.wix*^$important
 ||*inspector-collector*^$important
 ||*xbox*^$important
