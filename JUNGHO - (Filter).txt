@@ -31,5 +31,4 @@
 
 ! Black List (KR)
 ||*daum.*^$important
-||*mercury.coupang.com^$important
 ||*notification-front-web.coupang.com^$important
