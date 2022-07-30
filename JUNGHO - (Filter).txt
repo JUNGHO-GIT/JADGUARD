@@ -4,6 +4,7 @@
 ! White List (All)
 @@||www.msdmanuals.com^
 @@||us-auth2.samsungosp.com^$important
+@@||abs.twimg.com^important
 
 ! Black List (GO)
 ||*adservice.google*^$important
