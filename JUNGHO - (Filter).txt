@@ -8,6 +8,7 @@
 
 ! Black List (GO)
 ||*adservice.google*^$important
+||*adservice*^$important
 ||*safebrowsing*^$important
 ||*firebase*^$important
 ||*crashlytic*^$important
