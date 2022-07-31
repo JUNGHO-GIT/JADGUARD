@@ -7,18 +7,23 @@ https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
 
 3. Adguard - (Base)
 https://filters.adtidy.org/extension/chromium/filters/2_optimized.txt
+https://filters.adtidy.org/android/filters/2_optimized.txt
 
 4. Adguard - (Mobile)
 https://filters.adtidy.org/extension/chromium/filters/11_optimized.txt
+https://filters.adtidy.org/android/filters/11_optimized.txt
 
 5. Adguard - (Anoyance)
 https://filters.adtidy.org/extension/chromium/filters/14_optimized.txt
+https://filters.adtidy.org/android/filters/14_optimized.txt
 
 6. Adguard - (Social)
 https://filters.adtidy.org/extension/chromium/filters/4_optimized.txt
+https://filters.adtidy.org/android/filters/4_optimized.txt
 
 7. Adguard - (DNS)
 https://filters.adtidy.org/extension/chromium/filters/15_optimized.txt
+https://filters.adtidy.org/android/filters/15_optimized.txt
 
 8. Adguard - (Extra)
 https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.meta.js
