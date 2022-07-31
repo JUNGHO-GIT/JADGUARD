@@ -35,4 +35,5 @@
 
 ! Black List (KR)
 ||*daum.*^$important
-||*notification-front-web.coupang.com^$important
+||*notification-front-web.coupang.com*^$important
+||*sia.internet*^$important
