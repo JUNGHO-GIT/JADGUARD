@@ -5,6 +5,8 @@
 @@||www.msdmanuals.com^
 @@||us-auth2.samsungosp.com^$important
 @@||abs.twimg.com^$important
+@@||*ureca.samsungapps.com*^$important
+@@||*vas.samsungapps.com*^$important
 
 ! Black List (GO)
 ||*adservice.google*^$important
