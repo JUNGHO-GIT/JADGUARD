@@ -37,3 +37,4 @@
 ||*daum.*^$important
 ||*notification-front-web.coupang.com*^$important
 ||*sia.internet*^$important
+||*mercury.coupang.com*^$important
