@@ -3,8 +3,8 @@
 
 ! White List (All)
 @@||www.msdmanuals.com^
-@@||us-auth2.samsungosp.com^$important
-@@||abs.twimg.com^$important
+@@||*us-auth2.samsungosp.com*^$important
+@@||*abs.twimg.com*^$important
 @@||*ureca.samsungapps.com*^$important
 @@||*vas.samsungapps.com*^$important
 
@@ -28,8 +28,8 @@
 ||*spotify*^$important
 ||*facebook*^$important
 ||*bing*^$important
-||*static.invertase.io^$important
-||*static.xx.fbcdn.net^$important
+||*static.invertase.io*^$important
+||*static.xx.fbcdn.net*^$important
 ||*smetrics*^$important
 ||*tencent*^$important
 
@@ -37,4 +37,3 @@
 ||*daum.*^$important
 ||*notification-front-web.coupang.com*^$important
 ||*sia.internet*^$important
-||*mercury.coupang.com*^$important
