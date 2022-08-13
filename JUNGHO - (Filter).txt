@@ -21,7 +21,6 @@
 ||*safebrowsing*^$important
 ||*firebase*^$important
 ||*crashlytic*^$important
-||*tagmanager*^$important
 ||*cdn.ampproject*^$important
 ||*mtalk*^$important
 ||*analytic*^$important
