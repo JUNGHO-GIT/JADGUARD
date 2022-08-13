@@ -24,7 +24,7 @@
 ||*cdn.ampproject*^$important
 ||*mtalk*^$important
 ||*analytic*^$important
-||*content-autofill.googleapi*^$important
+||*tagmanager*^$important
 
 ! Black List (EN)
 ||*amazonaws.com*^$important
