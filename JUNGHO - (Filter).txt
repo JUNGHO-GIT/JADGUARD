@@ -13,6 +13,7 @@
 @@||*api.samsungcloud.com*^$important
 @@||*mpay.ssp.samsung.com*^$important
 @@||*svc.samsungpass.com*^$important
+@@||*sdk.pushmessage.samsung.com*^$important
 
 ! Black List (GO)
 ||*adservice.google*^$important
