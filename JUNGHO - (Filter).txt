@@ -7,6 +7,12 @@
 @@||*abs.twimg.com*^$important
 @@||*ureca.samsungapps.com*^$important
 @@||*vas.samsungapps.com*^$important
+@@||*api.samsungconsent.com*^$important
+@@||*kr-api.mcsvc.samsung.com*^$important
+@@||*kr-odc.samsungapps.com*^$important
+@@||*api.samsungcloud.com*^$important
+@@||*mpay.ssp.samsung.com*^$important
+@@||*svc.samsungpass.com*^$important
 
 ! Black List (GO)
 ||*adservice.google*^$important
