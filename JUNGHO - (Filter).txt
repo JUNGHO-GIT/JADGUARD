@@ -15,6 +15,7 @@
 @@||*svc.samsungpass.com*^$important
 @@||*sdk.pushmessage.samsung.com*^$important
 @@||*www.internet.apps.samsung.com*^$important
+@@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
 
 ! Black List (GO)
 ||*adservice.google*^$important
