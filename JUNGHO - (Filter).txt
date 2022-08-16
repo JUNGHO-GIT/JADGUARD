@@ -21,7 +21,7 @@
 @@||*conda.anaconda.org*^$important
 @@||*github*^$important
 @@||*api.internet.apps.samsung.com*^$important
-
+@@||*api.adguard*^$important
 
 ! Black List (GO)
 ||*adservice.google*^$important
@@ -34,7 +34,6 @@
 ||*analytic*^$important
 ||*tagmanager*^$important
 
-
 ! Black List (EN)
 ||*amazonaws.com*^$important
 ||*frog.wix*^$important
@@ -46,10 +45,12 @@
 ||*static.invertase.io*^$important
 ||*static.xx.fbcdn.net*^$important
 ||*smetrics*^$important
+
+! Black List (CN)
 ||*tencent*^$important
-
-
-! Black List (KR)
-||*daum.*^$important
-||*notification-front-web.coupang.com*^$important
-||*sia.internet*^$important
+||*WeChat*^$important
+||*UC News*^$important
+||*UC Browser*^$important
+||*Baidu*^$important
+TrueCaller
+Weibo
