@@ -16,6 +16,12 @@
 @@||*sdk.pushmessage.samsung.com*^$important
 @@||*www.internet.apps.samsung.com*^$important
 @@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
+@@||*pypi.org*^$important
+@@||*pythonhosted.org*^$important
+@@||*conda.anaconda.org*^$important
+@@||*github*^$important
+@@||*api.internet.apps.samsung.com*^$important
+
 
 ! Black List (GO)
 ||*adservice.google*^$important
@@ -27,6 +33,7 @@
 ||*mtalk*^$important
 ||*analytic*^$important
 ||*tagmanager*^$important
+
 
 ! Black List (EN)
 ||*amazonaws.com*^$important
@@ -40,6 +47,7 @@
 ||*static.xx.fbcdn.net*^$important
 ||*smetrics*^$important
 ||*tencent*^$important
+
 
 ! Black List (KR)
 ||*daum.*^$important
