@@ -51,5 +51,5 @@
 ||*UC News*^$important
 ||*UC Browser*^$important
 ||*Baidu*^$important
-TrueCaller
-Weibo
+||*TrueCaller*^$important
+||*Weibo*^$important
