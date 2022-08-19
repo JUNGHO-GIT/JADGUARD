@@ -2,7 +2,7 @@
 ! Description: Filter for AdGuard
 
 ! White List (All)
-@@||*serax*^$important
+@@||*searx*^$important
 @@||*www.msdmanuals.com*^
 @@||*us-auth2.samsungosp.com*^$important
 @@||*abs.twimg.com*^$important
@@ -25,7 +25,7 @@
 @@||*api.adguard*^$important
 
 ! Black List (GO)
-||ssl.google-analytics.com*^important
+||*ssl.google-analytics.com*^important
 ||*adservice.google*^$important
 ||*adservice*^$important
 ||*safebrowsing*^$important
