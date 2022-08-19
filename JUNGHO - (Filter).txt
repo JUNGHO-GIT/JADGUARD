@@ -39,8 +39,6 @@
 ||*inspector-collector*^$important
 ||*xbox*^$important
 ||*spotify*^$important
-||*facebook*^$important
-||*bing.*^$important
 ||*static.invertase.io*^$important
 ||*static.xx.fbcdn.net*^$important
 ||*smetrics*^$important
