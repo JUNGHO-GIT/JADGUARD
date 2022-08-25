@@ -1,12 +1,22 @@
 ! Title: JUNGHO - (Filter)
 ! Description: Filter for AdGuard
 
-! White List (All)
+! White List (ETC)
 @@||*searx*^$important
-@@||*us-auth2.samsungosp.com*^$important
 @@||*abs.twimg.com*^$important
-@@||*ureca.samsungapps.com*^$important
+@@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
+@@||*pypi.org*^$important
+@@||*pythonhosted.org*^$important
+@@||*conda.anaconda.org*^$important
+@@||*github*^$important
+@@||*api.adguard*^$important
+
+! White List (SA)
+@@||*api-kr1.mpay.samsung.com
+@@||*api.internet.apps.samsung.com*^$important
+@@||*us-auth2.samsungosp.com*^$important
 @@||*vas.samsungapps.com*^$important
+@@||*ureca.samsungapps.com*^$important
 @@||*api.samsungconsent.com*^$important
 @@||*kr-api.mcsvc.samsung.com*^$important
 @@||*kr-odc.samsungapps.com*^$important
@@ -15,13 +25,6 @@
 @@||*svc.samsungpass.com*^$important
 @@||*sdk.pushmessage.samsung.com*^$important
 @@||*www.internet.apps.samsung.com*^$important
-@@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
-@@||*pypi.org*^$important
-@@||*pythonhosted.org*^$important
-@@||*conda.anaconda.org*^$important
-@@||*github*^$important
-@@||*api.internet.apps.samsung.com*^$important
-@@||*api.adguard*^$important
 
 ! Black List (GO)
 ||*ssl.google-analytics.com*^important
