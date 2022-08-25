@@ -10,6 +10,7 @@
 @@||*conda.anaconda.org*^$important
 @@||*github*^$important
 @@||*api.adguard*^$important
+@@||*android.googleapis.com*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
