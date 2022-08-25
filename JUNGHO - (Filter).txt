@@ -3,7 +3,6 @@
 
 ! White List (All)
 @@||*searx*^$important
-@@||*www.msdmanuals.com*^
 @@||*us-auth2.samsungosp.com*^$important
 @@||*abs.twimg.com*^$important
 @@||*ureca.samsungapps.com*^$important
@@ -14,13 +13,13 @@
 @@||*api.samsungcloud.com*^$important
 @@||*mpay.ssp.samsung.com*^$important
 @@||*svc.samsungpass.com*^$important
-@@||*sdk.pushmessage.samsung.com*^
+@@||*sdk.pushmessage.samsung.com*^$important
 @@||*www.internet.apps.samsung.com*^$important
 @@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
 @@||*pypi.org*^$important
 @@||*pythonhosted.org*^$important
 @@||*conda.anaconda.org*^$important
-@@||*github*^
+@@||*github*^$important
 @@||*api.internet.apps.samsung.com*^$important
 @@||*api.adguard*^$important
 
