@@ -1,7 +1,7 @@
 1. JUNGHO - Filter
 https://raw.githubusercontent.com/JUNGHO-GIT/LAB/main/JUNGHO%20-%20(Filter).txt
 
-2. Easylist - (KR)
+2. Easylist - (KR)  /  (cookie)
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 
