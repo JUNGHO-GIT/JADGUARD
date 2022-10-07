@@ -11,6 +11,7 @@
 @@||*github*^$important
 @@||*api.adguard*^$important
 @@||*android.googleapis.com*^$important
+@@||*fo4*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
