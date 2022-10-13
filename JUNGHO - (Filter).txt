@@ -12,7 +12,7 @@
 @@||*api.adguard*^$important
 @@||*android.googleapis.com*^$important
 @@||*fo4*^$important
-@@||*sso.nexon.com*^$important
+@@||*nexon.com*^$important
 @@||*nexon.com*^$important
 @@||*nexoncdn*^$important
 
