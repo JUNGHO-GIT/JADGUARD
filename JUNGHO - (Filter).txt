@@ -11,10 +11,6 @@
 @@||*github*^$important
 @@||*api.adguard*^$important
 @@||*android.googleapis.com*^$important
-@@||*fo4*^$important
-@@||*nexon.com*^$important
-@@||*nexon.com*^$important
-@@||*nexoncdn*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
