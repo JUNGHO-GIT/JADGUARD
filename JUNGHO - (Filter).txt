@@ -47,6 +47,8 @@
 ||*static.xx.fbcdn.net*^$important
 ||*smetrics*^$important
 ||*nf.smartscreen.microsoft.com*^$important
+||nexusrules.officeapps.live.com^$important
+||*phinf.pstatic.net*^$important
 
 ! Black List (CN)
 ||*tencent*^$important
