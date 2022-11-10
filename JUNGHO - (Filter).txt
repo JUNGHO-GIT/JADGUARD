@@ -11,7 +11,8 @@
 @@||*github*^$important
 @@||*api.adguard*^$important
 @@||*android.googleapis.com*^$important
-@@||**eclipse.org*^$important
+@@||*eclipse.org*^$important
+@@||*org.eclipse.*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
