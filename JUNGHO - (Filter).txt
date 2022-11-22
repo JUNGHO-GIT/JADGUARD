@@ -17,6 +17,7 @@
 @@||*eclipse.org*^$important
 @@||*org.eclipse*^$important
 @@||*org.eclipse.*^$important
+@@||*com.google.guava*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
