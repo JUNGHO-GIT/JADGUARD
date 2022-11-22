@@ -11,7 +11,11 @@
 @@||*github*^$important
 @@||*api.adguard*^$important
 @@||*android.googleapis.com*^$important
+@@||*oracle*^$important
+@@||*oracle.*^$important
+@@||*oracle.com*^$important
 @@||*eclipse.org*^$important
+@@||*org.eclipse*^$important
 @@||*org.eclipse.*^$important
 
 ! White List (SA)
