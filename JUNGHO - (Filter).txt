@@ -18,6 +18,8 @@
 @@||*org.eclipse*^$important
 @@||*org.eclipse.*^$important
 @@||*com.google.guava*^$important
+@@||*app.tabnine.com*^$important
+@@||*.tabnine.com*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
