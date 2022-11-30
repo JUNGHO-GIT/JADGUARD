@@ -20,6 +20,7 @@
 @@||*com.google.guava*^$important
 @@||*app.tabnine.com*^$important
 @@||*.tabnine.com*^$important
+@@||*welfare.com*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
