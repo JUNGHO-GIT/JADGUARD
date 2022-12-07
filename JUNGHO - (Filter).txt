@@ -45,8 +45,8 @@
 ||*firebase*^$important
 ||*crashlytic*^$important
 ||*cdn.ampproject*^$important
-||*mtalk*^$important
-||*tagmanager*^$important
+## ||*mtalk*^$important
+## ||*tagmanager*^$important
 
 ! Black List (EN)
 ||*frog.wix*^$important
