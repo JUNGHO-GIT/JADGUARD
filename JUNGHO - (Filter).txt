@@ -19,8 +19,10 @@
 @@||*org.eclipse.*^$important
 @@||*com.google.guava*^$important
 @@||*app.tabnine.com*^$important
-@@||*.tabnine.com*^$important
+@@||*tabnine.com*^$importan
 @@||*welfare.com*^$important
+@@||*.vscode.*^$important
+@@||*vscode.com*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
