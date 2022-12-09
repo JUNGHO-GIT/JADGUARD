@@ -23,6 +23,8 @@
 @@||*welfare.com*^$important
 @@||*.vscode.*^$important
 @@||*vscode.com*^$important
+@@||pipedream.wistia.com^$important
+@@||distillery.wistia.com^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
