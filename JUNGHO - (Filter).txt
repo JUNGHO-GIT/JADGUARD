@@ -25,6 +25,8 @@
 @@||*vscode.com*^$important
 @@||pipedream.wistia.com^$important
 @@||distillery.wistia.com^$important
+@@||*tomcat.*^$important
+@@||*.tomcat.*^$important
 
 ! White List (SA)
 @@||*api-kr1.mpay.samsung.com
