@@ -27,8 +27,12 @@
 @@||distillery.wistia.com^$important
 @@||*tomcat.*^$important
 @@||*.tomcat.*^$important
+@@||*apache.*^$important
+@@||*.apache.*^$important
+@@||*copiloit.*^$important
+@@||*.copiloit.*^$important
 
-! White List (SA)
+! White List (SAM)
 @@||*api-kr1.mpay.samsung.com
 @@||*api.internet.apps.samsung.com*^$important
 @@||*us-auth2.samsungosp.com*^$important
@@ -43,7 +47,7 @@
 @@||*sdk.pushmessage.samsung.com*^$important
 @@||*www.internet.apps.samsung.com*^$important
 
-! Black List (GO)
+! Black List (GOO)
 ||*ssl.google-analytics.com*^important
 ||*adservice.google*^$important
 ||*adservice*^$important
@@ -51,8 +55,8 @@
 ||*firebase*^$important
 ||*crashlytic*^$important
 ||*cdn.ampproject*^$important
-## ||*mtalk*^$important
-## ||*tagmanager*^$important
+||*mtalk*^$important
+||*tagmanager*^$important
 
 ! Black List (EN)
 ||*frog.wix*^$important
