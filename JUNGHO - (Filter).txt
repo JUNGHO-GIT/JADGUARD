@@ -31,6 +31,11 @@
 @@||*.apache.*^$important
 @@||*copiloit.*^$important
 @@||*.copiloit.*^$important
+@@||*github.*^$important
+@@||*.github.*^$important
+@@||https://copilot-proxy.githubusercontent.com*^$important
+@@||mobile.events.data.microsoft.com*^$important
+@@||translate.google.com*^$important
 
 ! White List (SAM)
 @@||*api-kr1.mpay.samsung.com
