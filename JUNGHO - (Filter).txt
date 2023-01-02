@@ -33,6 +33,8 @@
 @@||*.copiloit.*^$important
 @@||*github.*^$important
 @@||*.github.*^$important
+@@||*redhat.*^$important
+@@||*.redhat.*^$important
 @@||https://copilot-proxy.githubusercontent.com*^$important
 @@||mobile.events.data.microsoft.com*^$important
 @@||translate.google.com*^$important
