@@ -55,15 +55,12 @@
 @@||*www.internet.apps.samsung.com*^$important
 
 ! Black List (GOO)
-||*ssl.google-analytics.com*^important
 ||*adservice.google*^$important
 ||*adservice*^$important
 ||*safebrowsing*^$important
 ||*firebase*^$important
 ||*crashlytic*^$important
 ||*cdn.ampproject*^$important
-||*mtalk*^$important
-||*tagmanager*^$important
 
 ! Black List (EN)
 ||*frog.wix*^$important
@@ -72,7 +69,6 @@
 ||*spotify*^$important
 ||*static.invertase.io*^$important
 ||*static.xx.fbcdn.net*^$important
-||*smetrics*^$important
 ||*nf.smartscreen.microsoft.com*^$important
 
 ! Black List (CN)
