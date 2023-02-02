@@ -40,6 +40,8 @@
 @@||translate.google.com*^$important
 @@||*tabnine.*^$important
 @@||*.tabnine.*^$important
+@@||*copilot.*^$important
+@@||*.copilot.*^$important
 
 ! White List (SAM)
 @@||*api-kr1.mpay.samsung.com
