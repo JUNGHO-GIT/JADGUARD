@@ -58,7 +58,6 @@
 ||*adservice.google*^$important
 ||*adservice*^$important
 ||*safebrowsing*^$important
-||*firebase*^$important
 ||*crashlytic*^$important
 ||*cdn.ampproject*^$important
 
