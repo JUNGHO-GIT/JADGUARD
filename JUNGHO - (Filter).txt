@@ -38,6 +38,8 @@
 @@||https://copilot-proxy.githubusercontent.com*^$important
 @@||mobile.events.data.microsoft.com*^$important
 @@||translate.google.com*^$important
+@@||*tabnine.*^$important
+@@||*.tabnine.*^$important
 
 ! White List (SAM)
 @@||*api-kr1.mpay.samsung.com
