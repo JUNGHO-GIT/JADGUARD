@@ -44,6 +44,8 @@
 @@||*.springframework.*^$important
 @@||*springboot.*^$important
 @@||*.springboot.*^$important
+@@||*dns://c2.p.tabnine.com*^$important
+
 
 ! White List (SAM)
 @@||*api-kr1.mpay.samsung.com
