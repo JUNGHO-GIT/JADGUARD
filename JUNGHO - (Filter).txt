@@ -45,6 +45,7 @@
 @@||*springboot.*^$important
 @@||*.springboot.*^$important
 @@||*dns://c2.p.tabnine.com*^$important
+@@||*https://copilot-proxy*^$important
 
 
 ! White List (SAM)
