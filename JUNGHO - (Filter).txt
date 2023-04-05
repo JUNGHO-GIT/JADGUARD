@@ -2,6 +2,9 @@
 ! Description: Filter for AdGuard
 
 ! White List (ETC)
+@@||*imgur**^$important
+@@||*i.imgur.com*^$important
+@@||*.imagur.**^$important
 @@||*searx*^$important
 @@||*abs.twimg.com*^$important
 @@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
