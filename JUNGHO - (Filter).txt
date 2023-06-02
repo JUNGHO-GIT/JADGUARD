@@ -2,6 +2,7 @@
 ! Description: Filter for AdGuard
 
 ! White List (ETC)
+@@||*mongodb**^$important
 @@||*imgur**^$important
 @@||*i.imgur.com*^$important
 @@||*.imagur.**^$important
