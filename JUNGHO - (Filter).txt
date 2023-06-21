@@ -50,7 +50,7 @@
 @@||*.springboot.*^$important
 @@||*dns://c2.p.tabnine.com*^$important
 @@||*https://copilot-proxy*^$important
-@@||*tagmanager*^important
+@@||*tagservices*^important
 
 
 ! White List (SAM)
