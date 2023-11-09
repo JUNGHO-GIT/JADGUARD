@@ -1,92 +1,89 @@
-! Title: JUNGHO - (Filter)
-! Description: Filter for AdGuard
+! Title: JUNGHO - (Filter) 
+! Description: Filter for AdGuard 
 
-! White List (ETC)
-@@||*mongodb**^$important
-@@||*imgur**^$important
-@@||*i.imgur.com*^$important
+! White List (ETC) 
+@@||*mongodb**^$important 
+@@||*imgur**^$important 
+@@||*i.imgur.com**^$important 
 @@||*.imagur.**^$important
-@@||*searx*^$important
-@@||*abs.twimg.com*^$important
-@@||*v6x-vrew-release.s3-accelerate.amazonaws.com*^$important
-@@||*pypi.org*^$important
-@@||*pythonhosted.org*^$important
-@@||*conda.anaconda.org*^$important
-@@||*github*^$important
-@@||*api.adguard*^$important
-@@||*android.googleapis.com*^$important
-@@||*oracle*^$important
-@@||*oracle.*^$important
-@@||*oracle.com*^$important
-@@||*eclipse.org*^$important
-@@||*org.eclipse*^$important
-@@||*org.eclipse.*^$important
-@@||*com.google.guava*^$important
-@@||*welfare.com*^$important
-@@||*.vscode.*^$important
-@@||*vscode.com*^$important
-@@||pipedream.wistia.com^$important
-@@||distillery.wistia.com^$important
-@@||*maven.*^$important
-@@||*.maven.*^$important
-@@||*tomcat.*^$important
-@@||*.tomcat.*^$important
-@@||*apache.*^$important
-@@||*.apache.*^$important
-@@||*copiloit.*^$important
-@@||*.copiloit.*^$important
-@@||*github.*^$important
-@@||*.github.*^$important
-@@||*redhat.*^$important
-@@||*.redhat.*^$important
-@@||https://copilot-proxy.githubusercontent.com*^$important
-@@||mobile.events.data.microsoft.com*^$important
-@@||translate.google.com*^$important
-@@||*tabnine.*^$important
-@@||*.tabnine.*^$important
-@@||*springframework.*^$important
-@@||*.springframework.*^$important
-@@||*springboot.*^$important
-@@||*.springboot.*^$important
-@@||*dns://c2.p.tabnine.com*^$important
-@@||*https://copilot-proxy*^$important
+@@||*api.adguard**^$important 
+@@||*android.googleapis.com**^$important 
+@@||*oracle**^$important 
+@@||*oracle.**^$important 
+@@||*oracle.com**^$important 
+@@||*eclipse.org**^$important 
+@@||*org.eclipse**^$important 
+@@||*org.eclipse.**^$important 
+@@||*com.google.guava**^$important 
+@@||*welfare.com**^$important
+@@||*eclipse**^$important 
+@@||*.eclipse**^$important
+@@||*eclipse.**^$important 
+@@||*vscode**^$important 
+@@||*.vscode.**^$important 
+@@||*vscode.com**^$important
+@@||*maven**^$important 
+@@||*maven.**^$important 
+@@||*.maven.**^$important
+@@||*tomcat**^$important 
+@@||*tomcat.**^$important 
+@@||*.tomcat.**^$important
+@@||*apache**^$important 
+@@||*apache.**^$important 
+@@||*.apache.**^$important
+@@||*copilot**^$important 
+@@||*copiloit.**^$important 
+@@||*.copiloit.**^$important
+@@||*github**^$important 
+@@||*github.**^$important 
+@@||*.github.**^$important
+@@||*redhat**^$important 
+@@||*redhat.**^$important 
+@@||*.redhat.**^$important 
+@@||translate.google.com**^$important 
+@@||*tabnine.**^$important 
+@@||*.tabnine.**^$important 
+@@||*springframework.**^$important 
+@@||*.springframework.**^$important 
+@@||*springboot.**^$important 
+@@||*.springboot.**^$important 
 
-! White List (SAM)
-@@||*api-kr1.mpay.samsung.com
-@@||*api.internet.apps.samsung.com*^$important
-@@||*us-auth2.samsungosp.com*^$important
-@@||*vas.samsungapps.com*^$important
-@@||*ureca.samsungapps.com*^$important
-@@||*api.samsungconsent.com*^$important
-@@||*kr-api.mcsvc.samsung.com*^$important
-@@||*kr-odc.samsungapps.com*^$important
-@@||*api.samsungcloud.com*^$important
-@@||*mpay.ssp.samsung.com*^$important
-@@||*svc.samsungpass.com*^$important
-@@||*sdk.pushmessage.samsung.com*^$important
-@@||*www.internet.apps.samsung.com*^$important
+! White List (SAM) 
+@@||*api-kr1.mpay.samsung.com 
+@@||*api.internet.apps.samsung.com**^$important 
+@@||*us-auth2.samsungosp.com**^$important 
+@@||*vas.samsungapps.com**^$important 
+@@||*ureca.samsungapps.com**^$important 
+@@||*api.samsungconsent.com**^$important 
+@@||*kr-api.mcsvc.samsung.com**^$important 
+@@||*kr-odc.samsungapps.com**^$important 
+@@||*api.samsungcloud.com**^$important 
+@@||*mpay.ssp.samsung.com**^$important 
+@@||*svc.samsungpass.com**^$important 
+@@||*sdk.pushmessage.samsung.com**^$important 
+@@||*www.internet.apps.samsung.com**^$important 
 
-! Black List (GOO)
-||*adservice.google*^$important
-||*adservice*^$important
-||*safebrowsing*^$important
-||*crashlytic*^$important
-||*cdn.ampproject*^$important
+! Black List (GOO) 
+||*adservice.google**^$important 
+||*adservice**^$important 
+||*safebrowsing**^$important 
+||*crashlytic**^$important 
+||*cdn.ampproject**^$important 
 
-! Black List (EN)
-||*frog.wix*^$important
-||*inspector-collector*^$important
-||*xbox*^$important
-||*spotify*^$important
-||*static.invertase.io*^$important
-||*static.xx.fbcdn.net*^$important
-||*nf.smartscreen.microsoft.com*^$important
+! Black List (EN) 
+||*frog.wix**^$important 
+||*inspector-collector**^$important 
+||*xbox**^$important 
+||*spotify**^$important 
+||*static.invertase.io**^$important 
+||*static.xx.fbcdn.net**^$important 
+||*nf.smartscreen.microsoft.com**^$important 
 
-! Black List (CN)
-||*tencent*^$important
-||*WeChat*^$important
-||*UC News*^$important
-||*UC Browser*^$important
-||*Baidu*^$important
-||*TrueCaller*^$important
-||*Weibo*^$important
+! Black List (CN) 
+||*tencent**^$important 
+||*WeChat**^$important 
+||*UC News**^$important 
+||*UC Browser**^$important 
+||*Baidu**^$important 
+||*TrueCaller**^$important 
+||*Weibo**^$important 
