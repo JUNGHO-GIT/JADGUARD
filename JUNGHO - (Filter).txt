@@ -39,14 +39,19 @@
 @@||*.github.**^$important
 @@||*redhat**^$important 
 @@||*redhat.**^$important 
-@@||*.redhat.**^$important 
-@@||translate.google.com**^$important 
+@@||*.redhat.**^$important
+@@||*tabnine**^$important 
 @@||*tabnine.**^$important 
 @@||*.tabnine.**^$important 
+@@||*springframework**^$important 
 @@||*springframework.**^$important 
 @@||*.springframework.**^$important 
+@@||*springboot**^$important 
 @@||*springboot.**^$important 
 @@||*.springboot.**^$important 
+@@||*bing**^$important 
+@@||*.bing**^$important 
+@@||*bing.**^$important 
 
 ! White List (SAM) 
 @@||*api-kr1.mpay.samsung.com 
