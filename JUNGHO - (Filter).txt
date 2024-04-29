@@ -52,6 +52,12 @@
 @@||*bing**^$important 
 @@||*.bing**^$important 
 @@||*bing.**^$important 
+@@||*npm**^$important 
+@@||*.npm**^$important 
+@@||*npm.**^$important 
+@@||*mui**^$important 
+@@||*.mui**^$important 
+@@||*mui.**^$important 
 
 ! White List (SAM) 
 @@||*api-kr1.mpay.samsung.com 
